@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Haggai Gisore Nyakndi.
+- 👋 Hi, my name is Haggai Gisore Nyakundi.
 - I am an aspriring software engineer.
 - I’m currently learning studying at Holberton School and ALX
 - I’m interested in specializing in cloud computing and machine learning
